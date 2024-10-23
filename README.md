@@ -15,9 +15,8 @@
 
 - ⚡ Fun fact **Love Traveling, Adventure, Learning**
 
-  <p align="right">
-  <img alt="Coding" width="400" src="https://assets.static-upwork.com/org-logo/1804523851433369600?date=1729665788671">
-</p>
+  <img alt="Coding" align="right" width="400" src="https://assets.static-upwork.com/org-logo/1804523851433369600?date=1729665788671">
+
 
 
 <h3 align="left">Connect with me:</h3>
