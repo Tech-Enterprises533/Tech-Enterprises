@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm M.Muzammil</h1>
 <h3 align="center">Software Engineer</h3>
 
-  <img alt="Coding" align="right" width="400" src="https://assets.static-upwork.com/org-logo/1804523851433369600?date=1729665788671">
+  <img alt="Coding" align="right" width="200" src="https://assets.static-upwork.com/org-logo/1804523851433369600?date=1729665788671">
 
 - 🔭 I’m currently working on **iOS Application Development**
 
