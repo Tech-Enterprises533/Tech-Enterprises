@@ -1,8 +1,8 @@
+<h1 align="center">Hi 👋, I'm M.Muzammil</h1>
+<h3 align="center">Software Engineer</h3>
 <p align="right">
   <img alt="Coding" width="400" src="https://assets.static-upwork.com/org-logo/1804523851433369600?date=1729665788671">
 </p>
-<h1 align="center">Hi 👋, I'm M.Muzammil</h1>
-<h3 align="center">Software Engineer</h3>
 
 - 🔭 I’m currently working on **iOS Application Development**
 
