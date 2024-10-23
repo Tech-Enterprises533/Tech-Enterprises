@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm M.Muzammil</h1>
 <h3 align="center">Software Engineer</h3>
-<p align="right">
-  <img alt="Coding" width="400" src="https://assets.static-upwork.com/org-logo/1804523851433369600?date=1729665788671">
-</p>
 
 - 🔭 I’m currently working on **iOS Application Development**
 
@@ -17,6 +14,11 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/mmuzammil112233/](https://www.linkedin.com/in/mmuzammil112233/)
 
 - ⚡ Fun fact **Love Traveling, Adventure, Learning**
+
+  <p align="right">
+  <img alt="Coding" width="400" src="https://assets.static-upwork.com/org-logo/1804523851433369600?date=1729665788671">
+</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
